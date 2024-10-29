@@ -1,5 +1,5 @@
 # BHT_BI_WiSe2425
-In this repo we have both the task 1 and task 2 files associated with our project.
+In this repo we have both the task 1 and task 2 directories associated with our projects. Consult TASK_BI.pdf for the details.
 
 Refer to the Task1 directory for the presentation due 3.12.24
 
