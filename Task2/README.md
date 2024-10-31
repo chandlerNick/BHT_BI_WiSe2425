@@ -6,6 +6,9 @@ Day 1 Meeting:
 - Figure out scope of project, leave today with roles and an understanding of what you need to do next.
 - Make a Gantt chart to set a timeline.
 
+Potential Products:
+-  Zillow Home price forecasting
+
 Google doc link:
 
 Presentation link:
