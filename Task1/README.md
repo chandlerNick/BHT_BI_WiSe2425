@@ -19,10 +19,9 @@ General Information Flow Diagram
 ----------    ----------------    ----------
 
 Current Roles:
-- External- Natasha, Luisa
+- External- Natasha, Luisa, Anirudh
 - Data Warehouse- Nancy, Luke, Nick (Whoever has access to the database)
-- Analysis- Luisa, Natasha, Nancy
-- Not Assigned- Chiraag, Gopal (i.e. Pick one or two!)
+- Analysis- Luisa, Natasha, Nancy, Chiraag, Anirudh
 
 Current Tasks:
 - External
