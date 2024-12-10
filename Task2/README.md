@@ -7,8 +7,12 @@ Day 1 Meeting:
 - Make a Gantt chart to set a timeline.
 
 Potential Products:
--  Zillow Home price forecasting
+- Jina AI https://jina.ai/
 
-Google doc link:
+Google doc link: https://docs.google.com/document/d/1RCje0Aocm-TK864URZAcwFHJCKzNLz3cBsRrnKwOMS0/edit?usp=sharing
 
-Presentation link:
+Presentation link: https://www.canva.com/design/DAGY5dSkDXw/DUKMTnEBdzOarJNZSPgjyA/edit
+
+
+
+
